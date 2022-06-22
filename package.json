@@ -1,0 +1,21 @@
+{
+  "name": "question-answer",
+  "version": "1.0.0",
+  "description": "nobody",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kaan#1337 - melih#0001",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.34.0",
+    "discord.js": "^13.8.0",
+    "fs": "^0.0.1-security",
+    "quick.db": "^9.0.3"
+  }
+}
